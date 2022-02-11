@@ -8,9 +8,8 @@ You can find out more about me [here](https://alustos.us)!
 
 
 
-### Current Research Plans:  
-
-* Click [here](docs/SNEAK2.0.md) to read my current ideas. Updated in `2/10/2022`
+## [Current Research Plans:](docs/SNEAK2.0.md)
+* Updated in `2/10/2022`
 
 Reading pre-requisites to understand link above
 
@@ -19,10 +18,13 @@ Reading pre-requisites to understand link above
 * [SWAY ](papers/reading/optimization/sway.pdf)
 
 
+
 ## Publications:
 
-### Awaiting Review:
-* [SNEAK: Faster Interactive Search-based SE](papers/awaiting-review/SNEAK.pdf)
+### Under Review:
+* [SNEAK: Faster Interactive Search-based SE](papers/awaiting-review/SNEAK.pdf) - Revision submitted to TSE on Jan 28th 2022.
 
-## Disclaimer
-_This repository only contains ideas starting from february 2022._
+
+Disclaimers:
+
+1. _This repository only contains ideas starting from february 2022._
