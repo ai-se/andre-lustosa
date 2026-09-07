@@ -1,3 +1,6 @@
+> **Archived research notes, February 2022.** This document preserves an early
+> research plan and is not a current roadmap. My current research profile and
+> publications are at [andre-motta/research](https://github.com/andre-motta/research).
 
 # **Basics**
 * divide data into 4 bins for hyperparams for effort estimation

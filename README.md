@@ -1,30 +1,20 @@
-# Welcome to my head
+# Andre Lustosa: research archive
 
-This repository will contain documents with my ideas ramblings and results. It is currently private to the Raise lab, but it might be made public eventually.
+My current research profile and publication list have moved to
+**[andre-motta/research](https://github.com/andre-motta/research)**.
+For my engineering work, projects, and writing, visit [alustos.us](https://alustos.us).
 
-You can find out more about me [here](https://alustos.us)!
+This repository is retained as a historical record of my early PhD research
+notes and reference materials. The plans and manuscript copies below reflect
+work in progress from 2022, not current research priorities or publication status.
 
+## Archived materials
 
+- [SNEAK 2.0 planning notes](docs/SNEAK2.0.md).
+- [SNEAK manuscript](papers/awaiting-review/SNEAK.pdf). The folder name reflects
+  the workflow at the time; current publication information is in the
+  [new research repository](https://github.com/andre-motta/research).
+- Background reading: [FASTMAP](papers/reading/clustering/fastmap.pdf) and
+  [SWAY](papers/reading/optimization/sway.pdf).
 
-
-
-## [Current Research Plans:](docs/SNEAK2.0.md)
-* Updated in `2/10/2022`
-
-Reading pre-requisites to understand link above
-
-* [SNEAK](papers/awaiting-review/SNEAK.pdf) 
-* [FASTMAP ](papers/reading/clustering/fastmap.pdf)
-* [SWAY ](papers/reading/optimization/sway.pdf)
-
-
-
-## Publications:
-
-### Under Review:
-* [SNEAK: Faster Interactive Search-based SE](papers/awaiting-review/SNEAK.pdf) - Revision submitted to TSE on Jan 28th 2022.
-
-
-Disclaimers:
-
-1. _This repository only contains ideas starting from february 2022._
+The original notes and PDFs remain available at their existing paths.
